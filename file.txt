@@ -1,5 +1,5 @@
 <body>
 <div style="display: none;">
-<a style="display:none;" href="isi domain" rel="dofollow">isi kw</a>
+<a style="display:none;" href="https://tanuvas.ac.in/e-journal/" rel="dofollow">https://tanuvas.ac.in/e-journal/</a>
 </div>
 </body>
